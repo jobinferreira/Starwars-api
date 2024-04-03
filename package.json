@@ -1,0 +1,23 @@
+{
+  "name": "starwars-api",
+  "version": "1.0.0",
+  "description": "starwars api desenvolvida em nodejs com mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobinferreira/Starwars-api.git"
+  },
+  "author": "Job Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobinferreira/Starwars-api/issues"
+  },
+  "homepage": "https://github.com/jobinferreira/Starwars-api#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4"
+  }
+}
